@@ -5,3 +5,5 @@ print("Addition is",c)
 c=a-b
 print("Subtraction is",c)
 print("Hii")
+print("Good mrng")
+print("Hi sucheta")
